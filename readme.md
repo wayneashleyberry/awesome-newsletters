@@ -3,6 +3,7 @@
 ## Open Source
 
 - [Changelog Weekly](https://changelog.com/weekly/)
+- [Cron Weekly](https://www.cronweekly.com/)
 
 ## Programming Languages
 
